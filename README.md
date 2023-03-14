@@ -6,7 +6,7 @@ I'm Claudio Moriello, a Master's student in Computer Science and Engineering at 
 
 I have a strong passion for AI, with a particular interest in ML and DL techniques.
 
-I'm always looking for new opportunities to learn and grow, and I'm excited about the future of AI. 
+I'm always looking for new opportunities to learn and grow. 
 
 If you're interested in working together, feel free to contact me.
 

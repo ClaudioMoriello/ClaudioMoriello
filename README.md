@@ -12,10 +12,10 @@ If you're interested in working together, feel free to contact me.
 
 <h2>:speech_balloon: Contact Me</h2>
 
--email: claudiomoriello97@gmail.com
--linkedin: [Claudio Moriello](https://www.linkedin.com/in/claudio-moriello-9308bb165/)
--phone: +39 3771214227
+* email: claudiomoriello97@gmail.com
+* linkedin: [Claudio Moriello](https://www.linkedin.com/in/claudio-moriello-9308bb165/)
+* phone: +39 3771214227
 
 <h2>:mortar_board: Education</h2>
-- Master's degree in Computer Science and Engineering at Polytechnic of Milan (expected graduation year 2024)
-- Bachelor's degree in Computer Engineering at University of Sannio (graduation year 2021)
+* Master's degree in Computer Science and Engineering at Polytechnic of Milan (expected graduation year 2024)
+* Bachelor's degree in Computer Engineering at University of Sannio (graduation year 2021)

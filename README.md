@@ -1,6 +1,4 @@
-# Introduction
-
-<h5>Hi there! :wave: I'm **Claudio**</h5>
+<h1>Hi there! :wave: I'm **Claudio**</h1>
 
 <h2>**:bust_in_silhouette: About Me**</h2>
 

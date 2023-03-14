@@ -1,4 +1,4 @@
-<h1>Hi there! :wave: I'm Claudio</h1>
+<h1>Hi there! I'm Claudio :wave:</h1>
 
 <h2>:bust_in_silhouette: About Me</h2>
 

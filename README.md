@@ -4,7 +4,7 @@
 
 I'm Claudio Moriello, a Master's student in Computer Science and Engineering at Polytechinc of Milan. 
 
-I have a passion for AI, in particular Machine and Deep Learning.
+I have a strong passion for AI, with a particular interest in ML and DL techniques.
 
 I'm always looking for new opportunities to learn and grow, and I'm excited about the future of AI. 
 
@@ -12,8 +12,9 @@ If you're interested in working together, feel free to contact me.
 
 <h2>:speech_balloon: Contact Me</h2>
 
-email: claudiomoriello97@gmail.com
-linkedin: [Claudio Moriello](https://www.linkedin.com/in/claudio-moriello-9308bb165/)
+-email: claudiomoriello97@gmail.com
+-linkedin: [Claudio Moriello](https://www.linkedin.com/in/claudio-moriello-9308bb165/)
+-phone: +39 3771214227
 
 <h2>:mortar_board: Education</h2>
 - Master's degree in Computer Science and Engineering at Polytechnic of Milan (expected graduation year 2024)
